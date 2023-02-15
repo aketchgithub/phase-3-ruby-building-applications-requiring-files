@@ -1,4 +1,4 @@
-# Something is missing here
+# added require_relative file path
 require_relative './plant'
 
 class Garden
